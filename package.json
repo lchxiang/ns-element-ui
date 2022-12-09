@@ -10,7 +10,7 @@
     "highlight.js": "^9.12.0",
     "lodash": "^4.17.15",
     "qrcodejs2": "^0.0.2",
-    "tinymce": "^5.2.2",
+    "tinymce": "^5.10.7",
     "vue": "^2.6.11",
     "vue-highlight.js": "^2.2.0",
     "vxe-table": "^2.9.17",
